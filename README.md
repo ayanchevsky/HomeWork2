@@ -54,5 +54,7 @@
                      
  
 Запуск:
+```
  scrapy crawl computers
  scrapy crawl nouts
+ ```
