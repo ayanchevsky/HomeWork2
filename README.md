@@ -47,7 +47,7 @@
 - При добавлении новой строки в БД автоматически вычисляется рейтинг по формуле:
 
                      
-                     rank = cpu_hhz * 0.09 + ram_gb * 5.9 + disk_ssd * 0.5 + disk_emmc * 0.5 + item['price'] * -0.002
+           rank = cpu_hhz * 0.09 + ram_gb * 5.9 + disk_ssd * 0.5 + item['price'] * -0.002
                      
                       
  ![Топ 5 записей](https://github.com/ayanchevsky/HomeWork2/blob/master/top5.PNG) 
