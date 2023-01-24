@@ -53,3 +53,6 @@
  ![Топ 5 записей](https://github.com/ayanchevsky/HomeWork2/blob/master/top5.PNG) 
                      
  
+Запуск:
+ scrapy crawl computers
+ scrapy crawl nouts
